@@ -1,0 +1,5 @@
+pytesseract==0.3.0
+opencv-contrib-python==3.4.2.17
+opencv-python==3.4.2.17
+imutils==0.5.3
+python-Levenshtein==0.12.0
